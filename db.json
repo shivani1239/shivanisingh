@@ -7,12 +7,7 @@
       "regular_price":"Rs.57120",
       "sale_price":"Rs.45,892",
       "product_photo":"https://images-na.ssl-images-amazon.com/images/I/71cd41RWSNL._SL1500_.jpg",
-      "colors":[
-      "black",
-      "white",
-      "grey"
-      ],
-    },
+      },
      {
       "id": 2,
       "name": "Viv0 v17",
@@ -20,12 +15,7 @@
       "regular_price":"Rs.24,990",
       "sale_price":"Rs.22,990",
       "product_photo":"https://static.toiimg.com/photo/73078527.cms",
-      "colors":[
-      "black",
-      "white",
-      "light green"
-      ],
-    },
+     },
      {
       "id": 3,
       "name": "iPhone 12",
@@ -33,11 +23,6 @@
       "regular_price":"Rs.99,990",
       "sale_price":"Rs.84,990",
       "product_photo":"https://images-na.ssl-images-amazon.com/images/I/71E5zB1qbIL._SL1500_.jpg",
-      "colors":[
-      "red",
-      "black",
-      "white"
-      ],
     },
     
   ],
